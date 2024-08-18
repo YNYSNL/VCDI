@@ -1,5 +1,6 @@
 # VUT-Centered environmental Dynamics Inference
 This repo is the implementation of the following paper:
+<<<<<<< HEAD
 
 **Towards Interactive Autonomous Vehicle Testing: Vehicle-Under-Test-Centered Traffic Simulation**
 <br> [Yiru Liu](https://github.com/YNYSNL), [Xiaocong Zhao](https://zxc-tju.github.io), [Jian Sun](https://scholar.google.com/citations?hl=zh-CN&user=dXaFOeYAAAAJ) 
@@ -91,3 +92,6 @@ If you find our repo or our paper useful, please use the following citation:
 ```
 ## Acknowledgment
 This project is a fork of [DIPP](https://github.com/MCZhi/DIPP) by [Zhiyu Huang](https://mczhi.github.io/) et al. I would like to thank the original authors for their work and contribution to the community.
+=======
+# Towards Interactive Autonomous Vehicle Testing: Vehicle-Under-Test-Centered Traffic Simulation
+>>>>>>> acc19f89782326f0f645f100a13835086913574b
