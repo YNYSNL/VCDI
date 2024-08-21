@@ -21,10 +21,8 @@ conda activate VCDI
 ```
 
 ### Install Theseus
-Install cuda 11.3 in advance.
 ```bash
-pip install functorch
-pip install theseus-ai
+pip install functorch theseus-ai
 ```
 
 ## Usage
@@ -90,4 +88,4 @@ If you find our repo or our paper useful, please use the following citation:
 }
 ```
 ## Acknowledgment
-This project is a fork of [DIPP](https://github.com/MCZhi/DIPP) by [Zhiyu Huang](https://mczhi.github.io/) et al. I would like to thank the original authors for their work and contribution to the community.
+This project borrows methods and concepts from the [DIPP](https://github.com/MCZhi/DIPP) project by [Zhiyu Huang](https://mczhi.github.io/) et al. I would like to thank the original authors for their contributions to the community. 
